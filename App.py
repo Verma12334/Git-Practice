@@ -6,4 +6,4 @@ def subraction(q,b,c):
 
 
 def division(q,p):
-    return (q/p)
+    return (q/p) 
